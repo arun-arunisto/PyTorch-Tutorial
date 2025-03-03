@@ -11,3 +11,4 @@
 9. Image classification with pre-trained models
 10. Image Classification with transfer learning
 11. Image Classification using fine tune pre-trained model    
+12. Semantic segmentation with PyTorch model
