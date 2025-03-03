@@ -12,3 +12,4 @@
 10. Image Classification with transfer learning
 11. Image Classification using fine tune pre-trained model    
 12. Semantic segmentation with PyTorch model
+13. Object Detection with Faster R-CNN
