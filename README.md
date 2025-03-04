@@ -15,3 +15,6 @@
 13. Object Detection with Faster R-CNN
 14. Instance Segmentation with Mask R-CNN
 
+# Projects
+Project 1: Iris Flower Guesser
+  - Iris Flower Guessing project, it's a simple project completely beginner level project with tiny and super beginner friendly dataset [Click here to download the dataset](!https://drive.google.com/file/d/1Aix7dMAGdCok4U79vCL1jIyi3kjiTqQ6/view?usp=sharing) 
