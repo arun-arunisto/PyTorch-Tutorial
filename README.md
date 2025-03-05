@@ -18,3 +18,6 @@
 # Projects
 Project 1: Iris Flower Guesser
   - Iris Flower Guessing project, it's a simple project completely beginner level project with tiny and super beginner friendly dataset [Click here to download the dataset](https://drive.google.com/file/d/1Aix7dMAGdCok4U79vCL1jIyi3kjiTqQ6/view?usp=sharing) 
+
+Project 2: Diabetic Guesser
+  - Diabetic predicting project, it's a beginner level project with added 3 layers in the model by using the CSV dataset, and the model achieved around 86% accuracy score. [Click here to download the dataset](https://drive.google.com/file/d/1QhgqG1Gj7GyYRvqojW8KSfdMM2NDuHyS/view?usp=sharing)
