@@ -21,3 +21,6 @@ Project 1: Iris Flower Guesser
 
 Project 2: Diabetic Guesser
   - Diabetic predicting project, it's a beginner level project with added 3 layers in the model by using the CSV dataset, and the model achieved around 86% accuracy score. [Click here to download the dataset](https://drive.google.com/file/d/1QhgqG1Gj7GyYRvqojW8KSfdMM2NDuHyS/view?usp=sharing)
+
+Project 3: House price predictor
+  - House price predicting project, and the model guessing the price more accurately it's really fantastic. [Click here to download the dataset](https://drive.google.com/file/d/1DlxdKHPCkFDzTC_CvkpdcL7N47Lk0SF4/view?usp=sharing)
