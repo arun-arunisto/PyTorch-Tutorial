@@ -24,3 +24,6 @@ Project 2: Diabetic Guesser
 
 Project 3: House price predictor
   - House price predicting project, and the model guessing the price more accurately it's really fantastic. [Click here to download the dataset](https://drive.google.com/file/d/1DlxdKHPCkFDzTC_CvkpdcL7N47Lk0SF4/view?usp=sharing)
+
+Project 4: Vehicle Price Predictor
+  - Vehilcle price predictor didnt got the expected result. The download the dataset [click here](https://drive.google.com/file/d/1qGTp2BvBzseLKFy9NBYTlYadE1oS0eCW/view?usp=sharing) .
