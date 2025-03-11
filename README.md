@@ -27,3 +27,6 @@ Project 3: House price predictor
 
 Project 4: Vehicle Price Predictor
   - Vehilcle price predictor didnt got the expected result. The download the dataset [click here](https://drive.google.com/file/d/1qGTp2BvBzseLKFy9NBYTlYadE1oS0eCW/view?usp=sharing) .
+
+Project 5: Veggie Classification
+  - Veggie classification is a simple project to classify the vegetable name using the images
