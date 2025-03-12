@@ -30,3 +30,6 @@ Project 4: Vehicle Price Predictor
 
 Project 5: Veggie Classification
   - Veggie classification is a simple project to classify the vegetable name using the images. To download the dataset [Click here](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset?select=Vegetable+Images)
+  - VeggieApp created by using this model by using gradio
+
+    ![Screenshot from 2025-03-12 10-59-14](https://github.com/user-attachments/assets/10d5b241-b91f-40a0-b305-effde25444ab)
