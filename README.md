@@ -33,3 +33,6 @@ Project 5: Veggie Classification
   - VeggieApp created by using this model by using gradio
 
     ![Screenshot from 2025-03-12 10-59-14](https://github.com/user-attachments/assets/10d5b241-b91f-40a0-b305-effde25444ab)
+
+Project 6: Sports Image CNN Classification
+  - Sports image classification using CNN implemented. To download the dataset [Click Here](https://www.kaggle.com/datasets/gpiosenka/sports-classification) 
