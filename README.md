@@ -39,4 +39,4 @@ Project 6: Sports Image CNN Classification
 
 Project 7: One Face Per Image using CNN
   
-  - Face detection using CNN dataset download from roboflow [click here](https://app.roboflow.com/computer-vision-oohiz/one-face-per-image/2/export) 
+  - Face detection using CNN to download dataset [click here](https://app.roboflow.com/computer-vision-oohiz/one-face-per-image/2/export) 
