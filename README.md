@@ -36,3 +36,7 @@ Project 5: Veggie Classification
 
 Project 6: Sports Image CNN Classification
   - Sports image classification using CNN implemented. To download the dataset [Click Here](https://www.kaggle.com/datasets/gpiosenka/sports-classification) 
+
+Project 7: One Face Per Image using CNN
+  
+  - Face detection using CNN dataset download from roboflow [click here](https://app.roboflow.com/computer-vision-oohiz/one-face-per-image/2/export) 
