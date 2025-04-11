@@ -14,6 +14,7 @@
 12. Semantic segmentation with PyTorch model
 13. Object Detection with Faster R-CNN
 14. Instance Segmentation with Mask R-CNN
+15. Object detection fine tuning model
 
 # Projects
 Project 1: Iris Flower Guesser
