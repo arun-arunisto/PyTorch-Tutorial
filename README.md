@@ -41,3 +41,8 @@ Project 6: Sports Image CNN Classification
 Project 7: One Face Per Image using CNN
   
   - Face detection using CNN to download dataset [click here](https://app.roboflow.com/computer-vision-oohiz/one-face-per-image/2/export) 
+
+Project 8: Object detection wth finetuned model on live cam using MaskRCnn
+  - Object detection on live cam by the model trained using maskRCNN
+    
+  ![Screenshot from 2025-05-12 17-04-46](https://github.com/user-attachments/assets/cbb640fa-f95b-477f-b87f-e7d00b442610)
